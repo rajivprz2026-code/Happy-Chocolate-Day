@@ -45,9 +45,9 @@ export default function FinalPopup({ onClose }: { onClose: () => void }) {
         />
 
         <p>
-          All chocolates are gone…<br />
+          All chocolates are finished…<br />
           Guess what’s left?<br />
-          <strong>You & Me 😘</strong>
+          <strong>Kanchuu & Me 😘</strong>
         </p>
 
         <button
