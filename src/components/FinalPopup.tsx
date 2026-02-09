@@ -47,7 +47,7 @@ export default function FinalPopup({ onClose }: { onClose: () => void }) {
         <p>
           All chocolates are gone…<br />
           Guess what’s left?<br />
-          <strong>Kanchuu & Me 😘</strong>
+          <strong>You & Me 😘</strong>
         </p>
 
         <button
@@ -62,7 +62,7 @@ export default function FinalPopup({ onClose }: { onClose: () => void }) {
             cursor: "pointer",
           }}
         >
-          Kanchuu, Chocolate Chaiyo?😅
+          Babee, Chocolate Chaiyo?😅
         </button>
       </motion.div>
     </motion.div>
