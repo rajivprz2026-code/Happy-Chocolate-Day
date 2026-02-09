@@ -62,7 +62,7 @@ export default function FinalPopup({ onClose }: { onClose: () => void }) {
             cursor: "pointer",
           }}
         >
-          Babee, Chocolate Chaiyo?😅
+          Appuu, Chocolate Chaiyo?😅
         </button>
       </motion.div>
     </motion.div>

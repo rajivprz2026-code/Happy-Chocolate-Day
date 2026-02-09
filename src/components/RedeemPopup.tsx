@@ -17,7 +17,7 @@ export default function RedeemPopup({ onClose }: { onClose: () => void }) {
         <p>
           You couldn’t meet me today…<br />
           Next time, I will bring you the chocolates you love 🍫💖<br />
-          Happy Chocolate Day my Love ❤️
+          Happy Chocolate Day Appu ❤️
         </p>
 
         <button onClick={onClose}>Close</button>
