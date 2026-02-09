@@ -13,10 +13,11 @@ export default function RedeemPopup({ onClose }: { onClose: () => void }) {
         animate={{ scale: 1, y: 0 }}
         transition={{ type: "spring", stiffness: 120 }}
       >
-        <h2>💌 Sweet Promise 💌</h2>
+        <h2>💌 Sweet Promise from Kanchaa 💌</h2>
         <p>
-          You couldn’t meet him today…<br />
-          Next time, he’ll bring you the chocolates you love 🍫💖
+          You couldn’t meet me today…<br />
+          Next time, I will bring you the chocolates you love 🍫💖<br />
+          Happy Chocolate Day Kanchuu ❤️
         </p>
 
         <button onClick={onClose}>Close</button>
